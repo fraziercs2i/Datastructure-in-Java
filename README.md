@@ -1,3 +1,3 @@
 # java
 
-implementation of datastructure in Java set, Fibonacci Heap, graph. 
+implementation of data structure in Java set, Fibonacci Heap, graph. 
